@@ -1,7 +1,7 @@
 # fashion-style-transfer
 
 ## Video preview
-[![Fashion Style Transfer (Preview)](https://res.cloudinary.com/marcomontalbano/image/upload/v1678187990/video_to_markdown/images/youtube--oYUNojcjusY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/oYUNojcjusY "Fashion Style Transfer (Preview)")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oYUNojcjusY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 This repository is under construction.
